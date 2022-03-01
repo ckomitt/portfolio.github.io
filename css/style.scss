@@ -44,7 +44,6 @@ html{
 
 body{
   background: $black;
-  padding-bottom: 6.5rem;
 }
 
 section{
@@ -450,7 +449,7 @@ section{
       width: 100%;
       ul {
           li {
-              margin-right: 4%;
+              margin-right: 10%;
               &:last-child {margin-right: 0;}
               display: inline-block;
               a {
@@ -465,7 +464,6 @@ section{
  
 
 @media (max-width:1200px){
-
   html{
     font-size: 55%;
   }
